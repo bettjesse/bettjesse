@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bettjesse
 - 👀 I’m interested in ...Front-end Development
-- 🌱 I’m currently  ...working on an eccomerce store
+- 🌱 I’m currently  ...working on a table reservation  system using react ,express. node js and mongodb
 - 💞️ I’m looking to collaborate on ... react projects
 - 📫 How to reach me ... here is my linkedin https://www.linkedin.com/in/jesse-bett-46b0aa1a8/ 
 - call/whatsapp at +254 110426093
