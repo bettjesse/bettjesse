@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jesse
-- 👀 I’m interested in ...Front-end Development and user experience design
+- 👀 I’m interested in ...Fullstack engineering and user experience design
 - 📫 How to reach me ... here is my linkedin https://www.linkedin.com/in/jesse-bett-46b0aa1a8/ 
 
 
